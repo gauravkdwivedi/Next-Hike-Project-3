@@ -9,10 +9,10 @@ This repository contains Python code for analyzing a housing dataset. The analys
 ## Prerequisites
 
 Make sure you have the following Python libraries installed:
-- **pandas
-- **numpy
-- **seaborn
-- **matplotlib
+- pandas
+- numpy
+- seaborn
+- matplotlib
 
 # Analysis Steps
 1. Data Loading and Inspection
