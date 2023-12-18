@@ -1,14 +1,18 @@
-# Housing Data Analysis
+# Next Hike Project - 3 - Housing Data Analysis
+
 ## Overview
-### This repository contains Python code for analyzing a housing dataset. The analysis includes data cleaning, univariate analysis, multivariate analysis, and visualizations to understand the various factors influencing house prices. The dataset used for this analysis is loaded from a CSV file ('Housing_data.csv').
+
+This repository contains Python code for analyzing a housing dataset. The analysis includes data cleaning, univariate analysis, multivariate analysis, and visualizations to understand the various factors influencing house prices. The dataset used for this analysis is loaded from a CSV file ('Housing_data.csv').
 
 # Getting Started
+
 ## Prerequisites
-### Make sure you have the following Python libraries installed:
-pandas
-numpy
-seaborn
-matplotlib
+
+Make sure you have the following Python libraries installed:
+- **pandas
+- **numpy
+- **seaborn
+- **matplotlib
 
 # Analysis Steps
 1. Data Loading and Inspection
